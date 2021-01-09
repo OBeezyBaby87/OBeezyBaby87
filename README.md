@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Metrics](https://github.com/OBeezyBaby87/OBeezyBaby87/blob/master/github-metrics.svg)
 <!--
 **OBeezyBaby87/OBeezyBaby87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
