@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-     # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: OBeezyBaby87
-on:
+--> #  
+     name: OBeezyBaby87
+     on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
   push: {branches: "master"}
