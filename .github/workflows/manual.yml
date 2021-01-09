@@ -56,4 +56,8 @@ jobs:
                plugin_topics_mode: mastered
                plugin_topics_limit: 0             
 
+            uses: lowlighter/metrics@latest
+             with:
+             # ... other options
+              config_output: jpeg
 
