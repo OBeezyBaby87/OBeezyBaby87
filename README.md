@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> #  
+-->   
      name: OBeezyBaby87
      on:
   # Schedule updates
@@ -25,8 +25,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
+          # You'll need to setup a personal token in your secrets.  token: ${{ secrets.OBeezyBaby87_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Options
